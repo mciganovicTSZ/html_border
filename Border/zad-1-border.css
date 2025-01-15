@@ -1,0 +1,10 @@
+p.prvi{
+    border-style: inset;
+}
+p.drugi {
+    border-style: solid;
+    /*border-top: thin;
+    border-bottom: thin ;*/
+    border-left-style: hidden ;
+    border-right-style: hidden ;
+}
